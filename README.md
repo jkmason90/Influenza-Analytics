@@ -14,3 +14,5 @@ staff.
 Objective: Determine when to send staff, and how many, to each state.
 Scope: The agency covers all hospitals in each of the 50 states of the United States, and
 the project will plan for the upcoming influenza season.
+
+https://public.tableau.com/app/profile/jourdan3012/viz/InfluenzaDeathoftheVulnerablePopulationintheUS/Story1
